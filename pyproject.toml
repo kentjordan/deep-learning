@@ -1,0 +1,12 @@
+[project]
+name = "env-machine-learning"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=6.29.5",
+    "matplotlib>=3.10.3",
+    "pandas>=2.3.1",
+    "yfinance>=0.2.65",
+]
