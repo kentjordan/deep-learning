@@ -1,7 +1,7 @@
 [project]
-name = "env-machine-learning"
+name = "deep-learning"
 version = "0.1.0"
-description = "Add your description here"
+description = "This repo is where my deep learning study projects will be stored in."
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
